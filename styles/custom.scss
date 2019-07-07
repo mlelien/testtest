@@ -1,0 +1,10 @@
+$theme-colors: (
+  "primary": #9013FE,
+  "dark-gray": #4A4A4A
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+h1 {
+  font-weight: $font-weight-bold;
+}
