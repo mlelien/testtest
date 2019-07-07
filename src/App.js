@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import SignUp from './SignUp'
+import SignUp2 from './LoginAndSignup/SignUp2'
 import AddParlor from './AddParlor'
 import '../styles/custom.scss'
 
-ReactDOM.render(<SignUp />, document.getElementById('root'))
+ReactDOM.render(<SignUp2 />, document.getElementById('root'))
